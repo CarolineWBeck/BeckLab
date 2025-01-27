@@ -1,5 +1,50 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.6084/m9.figshare.27898461
+  title: bmp inhibition effect on prehallux
+  authors:
+  - Caroline Beck
+  publisher: figshare
+  date: '2024-01-01'
+  link: https://doi.org/g8sr5c
+  orcid: 0000-0001-6489-7425
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/genetics/iyae085
+  title: Knockdown of <i>NeuroD2</i> leads to seizure-like behavior, brain neuronal
+    hyperactivity and a leaky blood-brain barrier in a <i>Xenopus laevis</i> tadpole
+    model of DEE75
+  authors:
+  - Sulagna Banerjee
+  - Paul Szyszka
+  - Caroline W Beck
+  publisher: GENETICS
+  date: '2024-05-24'
+  link: https://doi.org/gt7ccw
+  orcid: 0000-0001-6489-7425
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.6084/m9.figshare.25156355
+  title: NeuroD2 CRISPant tadpole vs control
+  authors:
+  - Caroline Beck
+  - Sulagna Banerjee
+  publisher: figshare
+  date: '2024-01-01'
+  link: https://doi.org/gthdhh
+  orcid: 0000-0001-6489-7425
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.6084/m9.figshare.24022488
+  title: ND2 edited GCaMP6s in brain.mp4
+  authors:
+  - Caroline Beck
+  publisher: figshare
+  date: '2023-01-01'
+  link: https://doi.org/gtcgqk
+  orcid: 0000-0001-6489-7425
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1111/jnc.15836
   title: "Characterisation and automated quantification of induced seizure\u2010related\
     \ behaviours in <i>Xenopus laevis</i> tadpoles"
@@ -264,7 +309,7 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1002/dvdy.21998
-  title: Gene expression profiles of lens regeneration and development in <i>Xenopus
+  title: Gene expression profiles of lens regeneration and development in<i>Xenopus
     laevis</i>
   authors:
   - Erica L. Malloch
